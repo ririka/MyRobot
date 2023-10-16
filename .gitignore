@@ -4,13 +4,13 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild
-/[Ll]ibrary/
+#/[Ll]ibrary/ 
 /[Ll]ogs/
 /[Uu]serSettings/
-/[Pp]rojectSettings/
+#/[Pp]rojectSettings/
 sysinfo.txt
 *.stackdump
- 
+#removed projectsettings and library form gitignore cause layer tags didnt work
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
